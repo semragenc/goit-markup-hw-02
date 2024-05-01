@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+.logo-text{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.studio-word{
+    color: #2e2f42;
+}
+.vehicles{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.vehicles:hover{
+    color: #404bbf;
+}
+.first-chapter{
+    background-color: #2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff
+}
+.order-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.order-button:hover{
+    background-color: #404BBF;
+    cursor: pointer
+}
+.second-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.third-chapter{
+    background-color: #F4F4FD
+}
+.third-header{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.work-image{
+    background-color: #FFFFFF
+}
+footer{
+    background-color: #2e2f42;
+}
+.footer-text{
+    color: #F4F4FD;
+}
+span{
+    color: #f4f4fd;
+}
+.fourth-chapter > h3{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.fourth-chapter > image{
+    width: 360px;
+}
