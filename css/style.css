@@ -48,17 +48,20 @@ address{
 .vehicles:hover{
     color: #404bbf;
 }
-.first-chapter{
-    background-color: #2e2f42;
+.first-header{
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.02em
+}
+.first-chapter{
+    background-color: #2e2f42;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff
 }
 .order-button{
     background-color: #4D5AE5;
-    font-family: "Roboto";
+    font-family: "Roboto" sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -114,9 +117,6 @@ footer{
 }
 .footer-text{
     color: #F4F4FD;
-}
-span{
-    color: #f4f4fd;
 }
 .portfolio-header{
     font-weight: 500;
