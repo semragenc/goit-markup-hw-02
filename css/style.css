@@ -82,15 +82,29 @@ p{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.third-header{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 .third-chapter{
     background-color: #F4F4FD
 }
-.third-header{
+.team-list{
+    background-color: #FFFFFF;
+}
+.team-header{
     font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-text{
+    font-size: 16px;
 }
 .work-image{
     background-color: #FFFFFF
