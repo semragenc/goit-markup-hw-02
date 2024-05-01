@@ -24,6 +24,18 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+address{
+    font-style: normal;
+}
+.contact-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contact-text:hover{
+    color: #404bbf;
+}
 .studio-word{
     color: #2e2f42;
 }
@@ -102,4 +114,7 @@ span{
 }
 .fourth-chapter > image{
     width: 360px;
+}
+.fourth-chapter > span {
+    color: #f4f4fd;
 }
