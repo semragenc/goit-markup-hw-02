@@ -112,9 +112,18 @@ span{
     text-transform: capitalize;
     color: #2e2f42;
 }
+.fourth-header{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize
+}
 .fourth-chapter > image{
     width: 360px;
 }
 .fourth-chapter > span {
+    color: #f4f4fd;
+}
+.end{
     color: #f4f4fd;
 }
