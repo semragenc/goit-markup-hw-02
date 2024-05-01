@@ -27,6 +27,12 @@ body{
 address{
     font-style: normal;
 }
+.header-list{
+    color: #2e2f42;
+}
+.header-list:hover{
+    color: #404bbf;
+}
 .contact-text{
     font-size: 16px;
     line-height: 1.5;
@@ -146,12 +152,6 @@ footer{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-}
-.fourth-chapter > image{
-    width: 360px;
-}
-.fourth-chapter > span {
-    color: #f4f4fd;
 }
 .end{
     color: #f4f4fd;
