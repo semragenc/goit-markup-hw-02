@@ -29,7 +29,6 @@ address{
 }
 .header-list{
     color: #434455;
-    
 }
 .header-list:hover{
     color: #404bbf;
@@ -51,9 +50,6 @@ address{
 }
 .studio-word{
     color: #2e2f42;
-}
-footer > span{
-    color: #f4f4fd;
 }
 .vehicles{
     font-weight: 500;
@@ -131,6 +127,9 @@ p{
 .work-image{
     background-color: #FFFFFF
 }
+footer>span {
+    color: #f4f4fd;
+}
 footer{
     background-color: #2e2f42;
 }
@@ -166,6 +165,6 @@ footer{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.end{
+/*.end{
     color: #f4f4fd;
 }
