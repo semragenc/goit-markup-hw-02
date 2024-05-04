@@ -198,3 +198,12 @@ footer {
 .footer .studio-word .span{
     color: #f4f4fd;
 }
+.iletisim{
+    color: #434455;
+}
+.iletisim:hover{
+    color: #404bbf;
+}
+.iletisim:focus {
+    color: #404bbf;
+}
